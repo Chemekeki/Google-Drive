@@ -1,0 +1,14 @@
+# Ignore sensitive JSON files
+client_secret_158237910863-j94jdkja01eh0r5hi7qqm2evhcb2ntgb.apps.googleusercontent.com.json
+
+# Ignore specific Excel files
+Delloite Document(1).xlsx
+First Email out.xlsx
+Job Evaluation Emails.xlsx
+Organizational View.xlsx
+output.xlsx
+Second Emails_Academic.xlsx
+Test File.xlsx
+token.pickle
+
+Screenshot 2023-11-10 142331.png
